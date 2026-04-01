@@ -1,0 +1,16 @@
+qutip
+
+#notebooks
+ipykernel
+
+# Qutip dependencies
+filelock
+loky
+matplotlib
+mpi4py
+numpy == 1.26.4
+pandas <= 2.2.0
+pytest
+pytest-rerunfailures
+setuptools
+tqdm
