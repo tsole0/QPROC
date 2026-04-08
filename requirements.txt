@@ -4,6 +4,7 @@ qutip
 ipykernel
 
 # Qutip dependencies
+cython
 filelock
 loky
 matplotlib
